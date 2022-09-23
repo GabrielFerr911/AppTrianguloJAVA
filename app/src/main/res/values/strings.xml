@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppTriângulo</string>
+    <string name="title">Triângulos</string>
+    <string name="sideA">Digite o valor do lado A:</string>
+    <string name="sideB">Digite o valor do lado B:</string>
+    <string name="sideC">Digite o valor do lado C:</string>
+    <string name="button">Verificar</string>
+    <string name="result">Resultado</string>
+</resources>
